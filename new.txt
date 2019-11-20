@@ -4,6 +4,3 @@ Git has a mutable index called stage.
 
 git commit --m "wrote a new file"
 
-
-
-Git tracks changes.
